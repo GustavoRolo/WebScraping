@@ -10,8 +10,8 @@ class EmailSettings:
     def ProsendEmailduct(textProduct):
         SMTP_SERVER = 'smtp.gmail.com'
         SMTP_PORT = 587
-        SMTP_USERNAME = 'gustavorolo69@gmail.com'
-        SMTP_PASSWORD = 'ffqwmzmebrosqzwh'
+        SMTP_USERNAME = 'yourEmail'
+        SMTP_PASSWORD = 'yourToken'
 
         # Cria a mensagem
         msg = MIMEMultipart()
